@@ -1,0 +1,9 @@
+# auto-generated doc
+doc/_apidoc
+doc/_build
+doc/.doctrees
+
+# buildout files
+bin
+eggs
+.installed.cfg
